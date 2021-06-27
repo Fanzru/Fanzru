@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fanzru">
-    <img src="../img/ubuntu.png" alt="Logo" width="80" height="80">
+    <img src="img/ubuntu.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Halo Slurrrrr.......</h3>
@@ -40,7 +40,7 @@
 
 ## Contact
 
-Ananda Affan Fattahila - [@linkedin_handle](https://linkedin.com/in/fanzru) - fattahilaaf080701@gmail.com
+Ananda Affan Fattahila - [@instagram](https://www.instagram.com/fattahilaaf_/) - fattahilaaf080701@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
