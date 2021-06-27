@@ -28,7 +28,7 @@
     <img src="img/ubuntu.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Halo Slurrrrr.......</h3>
+  <h3 align="center">Sugeng Rawuh Guys...</h3>
 </p>
 
 
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-
+help me, pray that I can become someone who can make progress in this world.
 
 ## Contact
 
