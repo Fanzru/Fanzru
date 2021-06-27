@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fanzru">
-    <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <img src="../img/ubuntu.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Halo Slurrrrr.......</h3>
