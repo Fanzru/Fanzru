@@ -54,7 +54,7 @@ Ananda Affan Fattahila - [@instagram](https://www.instagram.com/fattahilaaf_/) -
 [linkedin-url]: https://linkedin.com/in/fanzru
 <h2> About Github <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-[![Fanzry GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fanzru&theme=tokyonight)](https://git.io/praveenscience)
+[![Fanzry GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fanzru&theme=react-dark)](https://git.io/praveenscience)
 
-| ![Fanzru github stats](https://github-readme-stats.vercel.app/api?username=Fanzru&show_icons=true&theme=tokyonight) | ![Fanzru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fanzru&theme=tokyonight) |
+| ![Fanzru github stats](https://github-readme-stats.vercel.app/api?username=Fanzru&show_icons=true&theme=react-dark) | ![Fanzru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fanzru&theme=react-dark) |
 | --- | --- |
