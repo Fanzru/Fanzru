@@ -32,15 +32,10 @@
 
   
 
-help me, pray that I can become someone who can make progress in this world.
+Hello I'm an Agile Enthusiast and I'm trying to apply agile methodology in life. This is a bio, not a short story let alone your name hehe.
 
   
 
-## Contact
-
-  
-
-Ananda Affan Fattahila - [@instagram](https://www.instagram.com/fattahilaaf_/) - fattahilaaf080701@gmail.com
 
   
   
@@ -58,3 +53,8 @@ Ananda Affan Fattahila - [@instagram](https://www.instagram.com/fattahilaaf_/) -
 
 | ![Fanzru github stats](https://github-readme-stats.vercel.app/api?username=Fanzru&show_icons=true&theme=react-dark) | ![Fanzru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fanzru&theme=react-dark) |
 | --- | --- |
+
+## Contact
+
+[My Website](https://fanzru.dev/) - [@instagram](https://www.instagram.com/fattahilaaf_/) - fattahilaaf080701@gmail.com
+
