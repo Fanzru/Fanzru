@@ -58,4 +58,3 @@ Ananda Affan Fattahila - [@instagram](https://www.instagram.com/fattahilaaf_/) -
 
 | ![Fanzru github stats](https://github-readme-stats.vercel.app/api?username=Fanzru&show_icons=true&theme=tokyonight) | ![Fanzru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fanzru&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanzru&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Fanzru&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
