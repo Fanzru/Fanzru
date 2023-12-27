@@ -1,6 +1,6 @@
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-  
   
   
 
@@ -18,7 +18,7 @@
 
   
 
-<h3  align="center">Sugeng Rawuh, Hello My Name Affan.</h3>
+<h3  align="center">"Affan" mas mas jawa yang suka ngoding.</h3>
 
 </p>
 
@@ -32,7 +32,7 @@
 
   
 
-Hello I'm an Agile Enthusiast and I'm trying to apply agile methodology in life. This is a bio, not a short story let alone your name hehe.
+👋 Hello there! I'm an Product Enthusiast, weaving the principles of agility into the fabric of life. Embracing change, adapting, and iterating to create my own narrative. This is a bio, not a novel – no need for a formal introduction, just dive into the agile adventure with me! 🚀
 
   
 
@@ -49,12 +49,11 @@ Hello I'm an Agile Enthusiast and I'm trying to apply agile methodology in life.
 [linkedin-url]: https://linkedin.com/in/fanzru
 <h2> About Github <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-[![Fanzry GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fanzru&theme=react-dark)](https://git.io/praveenscience)
 
 | ![Fanzru github stats](https://github-readme-stats.vercel.app/api?username=Fanzru&show_icons=true&theme=react-dark) | ![Fanzru GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fanzru&theme=react-dark) |
 | --- | --- |
 
 ## Contact
 
-[My Website](https://fanzru.dev/) - [@instagram](https://www.instagram.com/fattahilaaf_/) - fattahilaaf080701@gmail.com
+[website](https://fanzru.dev/) - [instagram](https://www.instagram.com/fattahilaaf_/) - [email](fattahilaaf080701@gmail.com)
 
