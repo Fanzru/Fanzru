@@ -18,7 +18,7 @@
 
   
 
-<h3  align="center">"Affan" mas mas jawa yang suka ngoding.</h3>
+<h3  align="center">"Affan" mas mas jawa suka coding</h3>
 
 </p>
 
